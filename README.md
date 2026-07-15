@@ -20,7 +20,7 @@ A full-stack web application for managing complaints. Users can register, log in
 ## 📂 Installation
 
 ```bash
-git clone https://github.com/your-username/Complaint-Management-System.git
+git clone https://github.com/BhanjaMihirKumar/CMC-Complaint-Management-Corner.git
 
 cd Complaint-Management-System
 
